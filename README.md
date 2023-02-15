@@ -1,7 +1,6 @@
 # Movies-Web-App Engine
 ## The Ultimate Search Engine for Movies.
 
-Live App link:- https://moviesearchavi.herokuapp.com/
 
 
 * Install Node.js and MongoDB in your machine.
